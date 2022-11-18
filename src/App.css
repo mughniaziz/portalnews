@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.divider {
+  border-width: 8px;
+  background-color: black;
+}
+
+.content {
+  padding-top: 10px;
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+}
